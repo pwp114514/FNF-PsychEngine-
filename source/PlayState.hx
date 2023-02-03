@@ -71,7 +71,7 @@ import sys.io.File;
 #end
 
 #if VIDEOS_ALLOWED
-import VideoHandler;
+import hxcode.VideoHandler;
 #end
 
 using StringTools;
